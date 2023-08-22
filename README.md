@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRINCE105524
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on Android and iOS project
 - 📫 You Can Reach Me at ict.prince@gmail.com
